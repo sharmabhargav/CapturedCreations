@@ -18,5 +18,5 @@ The project contains four pages which are :
 3. JavaScript
 
 
-Live URL = https://abdulsamadayoade.github.io/Photosnap
+Live URL = https://sharmabhargav.github.io/bhargavsharma.github.io/
 
