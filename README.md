@@ -1,5 +1,6 @@
 # BhargavSharma- Photography Website
-![homepage](https://user-images.githubusercontent.com/105602130/168789679-137c35e7-d0c5-499e-85ff-00f4fc6bc37f.png)
+![website](https://user-images.githubusercontent.com/105602130/169688857-62f18aec-cc58-4bf9-8796-c26001788675.png)
+
 
 This is a photography website designed to showcase my photography portfolio. The homepage lets users know about me and connct with me for their desired work.
 
